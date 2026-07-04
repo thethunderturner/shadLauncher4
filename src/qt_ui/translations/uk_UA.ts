@@ -3622,16 +3622,20 @@ This will remove all game-specific overrides.</source>
       <translation>Сервер</translation>
     </message>
     <message>
-      <source>Signaling Address</source>
-      <translation>Сигнальна адреса</translation>
-    </message>
-    <message>
-      <source>Signaling Port</source>
-      <translation>Порт сигналу</translation>
-    </message>
-    <message>
       <source>Enable UPnP</source>
       <translation>Увімкнути UPnP</translation>
+    </message>
+    <message>
+      <source>Use Mice as Mice</source>
+      <translation>Використовувати миші як миші</translation>
+    </message>
+    <message>
+      <source>WebAPI Server</source>
+      <translation>Сервер WebAPI</translation>
+    </message>
+    <message>
+      <source>Signaling Info</source>
+      <translation>Інформація про сигнал</translation>
     </message>
   </context>
   <context>
